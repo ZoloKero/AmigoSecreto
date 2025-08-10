@@ -1,7 +1,5 @@
 # 🎄 Amigo Secreto Navideño
 
-![Preview](assets/amigo-secreto.png)
-
 Aplicación web para organizar intercambios de regalos con amigos y familiares.
 
 ##  Funcionalidades
@@ -22,9 +20,3 @@ Aplicación web para organizar intercambios de regalos con amigos y familiares.
 1. Puedes Guardar tus listas en el boton "Guardar"
 2. Puedes cargar listas guardadas en el boton "Cargar"
 3. Puedes descargar tu lista en el boton "Exportar"
-
-```html
-<div align="center">
-  <img src="assets/screenshot1.png" width="45%">
-  <img src="assets/screenshot2.png" width="45%">
-</div>
